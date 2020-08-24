@@ -1,4 +1,4 @@
-# javascript-api-test
+# API Feed Test
 Test for backend developer candidates. When you start the test, create a branch off of master that you will name after you and when you are done create a pull reqeust. Good luck!
 
 # Story
