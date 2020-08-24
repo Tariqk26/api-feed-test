@@ -15,4 +15,4 @@ Using the Punk API, create a JSON file that contains a list of beers, grouped by
 - a single, comma seperated string of the names of it's malts
 
 # The tools
-You can use any tools you are comfortable with to code this application (ReactJS, Vue, Angular...) and you must use the Punk API (https://punkapi.com/documentation/v2) to get the data from. The API has a request limit of 3600 per hour, so you may want to save the json response to work with during the test. You are welcome to add any documentation to your code especially commands for us to test it. 
+Youmust use the Punk API (https://punkapi.com/documentation/v2) to get the data. The API has a request limit of 3600 per hour, so you may want to save the json response to work with during the test. You are welcome to add any documentation to your code especially commands for us to test it. 
