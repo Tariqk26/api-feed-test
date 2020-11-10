@@ -24,6 +24,7 @@ You must use the Punk API (https://punkapi.com/documentation/v2) to get the data
 
 
 # What we are looking for
-We're looking to see how you approach a problem.
-You are welcome to add any documentation to your code you like, especially commands for us to test it. 
+We're looking to see how you approach a problem more than anything.
+You are welcome to add any documentation or tests to your code that you like.
 
+We look forward to seeing your solution. 
