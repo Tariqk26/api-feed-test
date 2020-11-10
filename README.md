@@ -6,8 +6,8 @@ The quarterly review of the company is upon us and we need to find a good select
 
 # The test
 Using the Punk API, create a program that generates a list of beers, grouped by their yeast.
-This program should be able to recieve two inputs in the command line, a min and max ABV. 
-The program should use these values to return only the beers with a ABV greater than the min but less than max. 
+This program should be able to recieve two inputs via the command line, a min and max ABV. 
+The program should use these values to return only the beers with a ABV greater than the min amount but less than max amount. 
 
 Each beer in the feed should include:
 - name
@@ -20,4 +20,10 @@ Each beer in the feed should include:
 This output of the program should be printed to the terminal.
 
 # The tools
-You must use the Punk API (https://punkapi.com/documentation/v2) to get the data. The API has a request limit of 3600 per hour, so you may want to save the json response to work with during the test. You are welcome to add any documentation to your code especially commands for us to test it. 
+You must use the Punk API (https://punkapi.com/documentation/v2) to get the data. The API has a request limit of 3600 per hour, so you may want to save the json response to work with during the test.
+
+
+# What we are looking for
+We're looking to see how you approach a problem.
+You are welcome to add any documentation to your code you like, especially commands for us to test it. 
+
