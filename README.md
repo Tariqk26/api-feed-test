@@ -1,9 +1,6 @@
 # API Feed Test
 Test for backend developer candidates. When you start the test, create a branch off of master that you will name after you and when you are done create a pull reqeust. Good luck!
 
-# Story
-The quarterly review of the company is upon us and we need to find a good selection of beers to have on offer! We need to make sure that the beers aren't too weak or too strong, and that there is enough information for people to choose what they would like. 
-
 # The test
 Using the Punk API, create a program that generates a list of beers, grouped by their yeast.
 This program should be able to recieve two inputs via the command line, a min and max ABV. 
