@@ -4,7 +4,7 @@ Using the Live Server Extention hit `Go live`
 ## The Process 
 I used an async function and a Fetch request to attempt an an array of the list of beers within the Punk API.
 
-my finished script reads as: 
+Below is the current script for my function, this is not the finished result but as far as I got in the 2 hours, I've kept working on this problem since the test and will commit my result to a separate branch: 
 ```
 
         const api_url = 'https://api.punkapi.com/v2/beers?brewed_before=11-2012&abv_gt=6'
@@ -35,5 +35,5 @@ I attempted to add more const variables to call the data from the API url and de
 
 
 ## TODO 
-- find the rootcause of the issue of abvMin and do more research on API requests
-- maniputlate the data to return an array of beers grouped by yeast 
+- find the rootcause of the issue of abvMin and do more research on API requests 
+- maniputlate the data to return an array of beers grouped by yeast (i believe the best way to do this is using the .sort method)
